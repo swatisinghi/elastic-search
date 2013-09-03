@@ -16,9 +16,9 @@ Here are the list of attributes per product:
 - genre
 - artist
 
-Second containing the list of queries, each row has the query and the product that was clicked as a result of this. Each row contains 
-query:
+Second containing the list of queries, each row has the query and the product that was clicked as a result of this. Each row contains:
 
+- query
 - productId
 - timestamp
 
